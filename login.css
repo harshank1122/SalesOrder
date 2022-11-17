@@ -1,0 +1,303 @@
+@charset "ISO-8859-1";
+
+/* resistation form  */
+
+.form{
+    position: relative;
+    width: 100%;
+    top: 147px;
+    justify-content: center;
+}
+.form .row{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 2rem 5rem;
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px;
+}
+h1{
+    position: relative;
+    top: 56px;
+    text-align: center;
+}
+
+/* login update */
+
+.login{
+    position: relative;
+    width: 100%;
+    top: 147px;
+    justify-content: center;
+}
+.login .row{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 2rem 5rem;
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px;
+}
+/* table */
+
+.details {
+    position: absolute;
+    width: 94%;
+    top: 13rem;
+    left: 3%;
+    z-index: 2; 
+}
+
+.details .table{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 2rem 5rem;
+}
+.details  td {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.details  th {
+    font-size: 20px;
+    font-weight: 500;
+}
+/* user header */
+
+ .user {
+    position: relative;
+    width: 1400px;
+    top: 83px;
+    left: 5%;
+    height: 33px;
+    border: 2px solid black;
+}
+
+.userin a{
+    display: inline-block;
+    position: relative;
+    top: 0px;
+    left: 92%;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.mycus a{
+    display: inline-block;
+    position: relative;
+    top: -23px;
+    left: 1%;
+    font-size: 15px;
+    color: black;
+}
+
+.myor a{
+    display: inline-block;
+    position: relative;
+    top: -47px;
+    left: 7%;
+    font-size: 15px;
+    color: black;
+}
+
+/* order header */
+
+.order {
+    position: relative;
+    width: 1400px;
+    top: 81px;
+    left: 5%;
+    height: 33px;
+    border: 2px solid black;
+}
+
+.plor a{
+    display: inline-block;
+    position: relative;
+    top: 0px;
+    left: 93%;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.plcus a{
+    display: inline-block;
+    position: relative;
+    top: 0px;
+    left: 89%;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.date h1 {
+    display: inline-block;
+    position: relative;
+    top: -22px;
+    left: 1%;
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.updatetag h1{
+    position: absolute;
+    top: 4%;
+    left: 46%;
+    font-size: x-large;
+
+}
+
+/* customer form */
+
+.for h1{
+    display: inline-block;
+    position: relative;
+    top: 0px;
+    left: 8%;
+    font-size: 15px;
+}
+
+.newcus h1{
+    display: inline-block;
+    position: relative;
+    top: -31px;
+    left: 12%;
+    font-size: 15px;
+}
+
+.mycust a{
+    display: inline-block;
+    position: relative;
+    top: -59px;
+    left: 1%;
+    font-size: 15px;
+    text-decoration: none;
+}
+.cusde h1{
+    position: absolute;
+    top: 2%;
+    left: 8%;
+    font-size: large;
+}
+.billadd h1{
+    position: absolute;
+    top: 32%;
+    left: 8%;
+    font-size: large;
+}
+.shipadd h1{
+    position: absolute;
+    top: 63%;
+    left: 8%;
+    font-size: large; 
+}
+.newcush h1{
+    position: absolute;
+    top: 4%;
+    left: 44%;
+    font-size: x-large; 
+}
+.sub{
+    position: relative;
+    width: 94%;
+    top: 0rem;
+    left: 46%;
+}
+
+/* order */
+
+.orform{
+    position: relative;
+    width: 100%;
+    top: 7px;
+    justify-content: center;
+    margin-top: 147px;
+}
+.orform .row{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 2rem 5rem;
+    border: 2px solid black;
+    padding: 5px 5px 5px 5px;
+}
+
+.prose h1{
+    position: absolute;
+    top: 64%;
+    left: 8%;
+    font-size: large;
+}
+/* view */
+
+.list{
+    display: inline-block;
+    position: relative;
+        font-size: 18px;
+    margin-top: 11%;
+    left: 21%;
+    
+}
+
+.list h2 , h5{
+    color: black;
+}
+
+.list  h5{
+    font-size: 2rem;
+}
+
+
+.list ul{
+    color: black;
+}
+
+.home{
+    display: inline-block;
+    position: relative;
+    font-size: large;
+    margin-top: 23%;
+    left: 25%;
+}
+.home h1{
+    color: black;
+    font-size: 3rem;
+}
+
+.orh1 h1{
+    position: absolute;
+    top: 5%;
+    left: 27%;
+    font-size: xxx-large;
+}
+
+.login {
+    position: absolute;
+    width: 30%;
+    top: 19rem;
+    left: 35%;
+    z-index: 2; 
+}
+
+#login{
+    top: 19rem;
+}
+
+#update{
+    top: 30rem;
+}
+.log h1{
+	position: absolute;
+    top: 16%;
+    left: 42%;
+    font-size: xxx-large;
+}
+
+
+
+
+
+
